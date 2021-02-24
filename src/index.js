@@ -1,4 +1,5 @@
 import React from 'react'
+import 'bootstrap/dist/css/bootstrap.min.css'
 import App from './containers/app'
 import { render } from 'react-dom'
 import { createStore, applyMiddleware } from 'redux'

@@ -1,15 +1,16 @@
 import React from "react";
 import Router from "../../routes";
 import { connect } from "react-redux";
-import { getWords } from "../../actions/api/index";
+import { getWords } from "../../actions/list/index";
 
 function App(props) {
-  const { api, setWords } = props;
+  const { list, setWords, wordsIsFetching } = props;
   return (
     <div>
       <Router
-          api={api}
+          list={list}
           setWords={setWords}
+          wordsIsFetching={wordsIsFetching}
       />
     </div>
   );
@@ -17,14 +18,14 @@ function App(props) {
 
 const mapStateToProps = (store) => {
   return {
-    api: store.api,
+    list: store.list,
     wordsIsFetching: store.wordsIsFetching
   };
 };
 
 const mapDispatchToProps = (dispatch) => {
   return {
-    setWords: () => dispatch(getWords()),
+    setWords: (word) => dispatch(getWords(word)),
   };
 };
 

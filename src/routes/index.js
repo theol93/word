@@ -6,15 +6,16 @@ import Home from '../containers/home/index'
 
 export default function App(props) {
 
-	const {api, setWords} = props
+	const {list, setWords, wordsIsFetching} = props
 	return (
 		<Router>
 			<nav>
 				<Switch>
 					<Route exact path="/">
 						<Home
-						api={api}
+						list={list}
 						setWords={setWords}
+						wordsIsFetching={wordsIsFetching}
 						/>
 					</Route>
 					<Route path="/loader">

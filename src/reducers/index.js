@@ -1,6 +1,6 @@
 import { combineReducers } from "redux";
-import { api } from "./words";
+import { list } from "./list";
 
 export const rootReducer = combineReducers({
-  api: api,
+  list: list,
 });
