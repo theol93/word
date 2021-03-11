@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fce80ee8-4d1d-4325-8db8-cbd4daa88922" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/actions/list/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/list.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/api/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/app/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/app/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/containers/home/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/home/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dictionary/words.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/words.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/words.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,16 +47,16 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/404" />
+      <recent name="$PROJECT_DIR$/src/containers/404" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\theol\Desktop\word\src\dictionary" />
       <recent name="$PROJECT_DIR$/src/components" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/dictionary" />
       <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/components/404" />
-      <recent name="$PROJECT_DIR$/src/containers/404" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -129,7 +119,9 @@
       <workItem from="1614180141233" duration="11507000" />
       <workItem from="1614194358985" duration="364000" />
       <workItem from="1614194748087" duration="53000" />
-      <workItem from="1614194826484" duration="243000" />
+      <workItem from="1614194826484" duration="1275000" />
+      <workItem from="1614239292564" duration="13746000" />
+      <workItem from="1614327586186" duration="1429000" />
     </task>
     <servers />
   </component>
