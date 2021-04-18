@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="fce80ee8-4d1d-4325-8db8-cbd4daa88922" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+>>>>>>> 9ae0764229801243d6cff83b3006633a73b90765
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +36,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/404" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -46,11 +50,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\theol\Desktop\word\src" />
+      <recent name="C:\Users\theol\Desktop\word\public" />
+      <recent name="C:\Users\theol\Desktop\word" />
       <recent name="C:\Users\theol\Desktop\word\src\dictionary" />
       <recent name="$PROJECT_DIR$/src/components" />
-      <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/dictionary" />
-      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/components/404" />
@@ -105,9 +109,20 @@
       <workItem from="1614180141233" duration="11507000" />
       <workItem from="1614194358985" duration="364000" />
       <workItem from="1614194748087" duration="53000" />
+<<<<<<< HEAD
       <workItem from="1614194826484" duration="243000" />
       <workItem from="1615469313341" duration="316000" />
       <workItem from="1618769127083" duration="309000" />
+=======
+      <workItem from="1614194826484" duration="1275000" />
+      <workItem from="1614239292564" duration="13746000" />
+      <workItem from="1614327586186" duration="1429000" />
+      <workItem from="1615479399015" duration="766000" />
+      <workItem from="1615542309748" duration="21000" />
+      <workItem from="1615999969404" duration="2335000" />
+      <workItem from="1616003443526" duration="787000" />
+      <workItem from="1616004329779" duration="619000" />
+>>>>>>> 9ae0764229801243d6cff83b3006633a73b90765
     </task>
     <servers />
   </component>
